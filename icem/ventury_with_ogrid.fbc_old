@@ -1,0 +1,8 @@
+# family_boco file written by ICEM CFD by tclavoratti on qua abr 18 15:22:28 -03 2018
+## solver ANSYS Fluent
+"INLET"
+"OUTLET"
+"POINTS"
+"WALL"
+"SOLID"
+"SOLID" "color" 3403389
